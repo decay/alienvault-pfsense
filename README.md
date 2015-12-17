@@ -11,3 +11,5 @@ Copy the pfsense.cfg to /etc/ossim/agent/plugins and activate as usual.
 
 This plugin shares the Plugin ID and SID with the pf packetfilter plugin (plugin id 1560).
 
+The plugin rules have also been integrated into the official AlienVault USM5 OpenBSD/pf plugin starting from December 2015.
+
